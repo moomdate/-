@@ -1,0 +1,2 @@
+RewriteEngine On
+ErrorDocument 404 /maintenance/index.php?index=404
